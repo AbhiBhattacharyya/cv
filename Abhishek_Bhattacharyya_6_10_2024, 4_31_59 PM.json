@@ -1,0 +1,223 @@
+{
+    "basics": {
+        "name": "Abhishek Bhattacharyya",
+        "label": "Backend/Fullstack Developer",
+        "image": "",
+        "email": "eml.abhishek@gmail.com",
+        "phone": "+46 760583550",
+        "url": "",
+        "summary": "<p>Extensive experience building services\nusing back-end technologies like java,\nspring boot, microservice.Experience in\nTelecommunication and Banking\ndomain.Worked with international\nstakeholders in different geolocations in Asia,UK, Europe.Knowledge in cloud\nenvironments like AWS and Google\nCloud.&nbsp;Practice Agile best practices. Good experience in frontend technologies like Angular</p>",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Stockholm/Sweden",
+            "countryCode": "",
+            "region": ""
+        },
+        "relExp": "",
+        "totalExp": "13.5 Years",
+        "objective": "<p>Eager to solve complex problems. Work in\na diverse team. Collaborate with others to\nbuild excellent software. Learn new skills\nand technologies</p>",
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "sadanandpai",
+                "url": "http://linkedin.com/in/bhatabhi"
+            },
+            {
+                "network": "twitter",
+                "username": "sadanandpai",
+                "url": ""
+            },
+            {
+                "network": "github",
+                "username": "sadanandpai",
+                "url": "https://github.com/AbhiBhattacharyya"
+            },
+            {
+                "network": "hackerrank",
+                "username": "paicube",
+                "url": "https://www.hackerrank.com/profile/eml_abhishek"
+            },
+            {
+                "network": "hackerearth",
+                "username": "sadanandpai",
+                "url": ""
+            },
+            {
+                "network": "codechef",
+                "username": "sadanandpai",
+                "url": ""
+            },
+            {
+                "network": "leetcode",
+                "username": "paicube",
+                "url": ""
+            }
+        ]
+    },
+    "skills": {
+        "languages": [
+            {
+                "name": "java 17",
+                "level": 90
+            },
+            {
+                "name": "Spring Boot",
+                "level": 90
+            },
+            {
+                "name": "Microservices",
+                "level": 75
+            },
+            {
+                "name": "Kafka",
+                "level": 75
+            },
+            {
+                "name": "JPA/Hibernate",
+                "level": 75
+            },
+            {
+                "name": "RDBMS/NoSQL",
+                "level": 75
+            },
+            {
+                "name": "AWS",
+                "level": 70
+            }
+        ],
+        "frameworks": [
+            {
+                "name": "Angular",
+                "level": 70
+            }
+        ],
+        "technologies": [
+            {
+                "name": "Algorithms and data structure",
+                "level": 0
+            },
+            {
+                "name": "Low level and high level system design",
+                "level": 0
+            }
+        ],
+        "libraries": [],
+        "databases": [],
+        "practices": [
+            {
+                "name": "Component based architecture",
+                "level": 3
+            },
+            {
+                "name": "Agile methodology",
+                "level": 3
+            },
+            {
+                "name": "Test Driven Development",
+                "level": 3
+            }
+        ],
+        "tools": [
+            {
+                "name": "Docker",
+                "level": 0
+            },
+            {
+                "name": "Jenkins",
+                "level": 0
+            }
+        ]
+    },
+    "work": [
+        {
+            "id": "1",
+            "name": "Giesecke + Devrient (G+D)",
+            "position": "Senior Software Developer",
+            "url": "",
+            "startDate": "2023-10-31T23:00:00.000Z",
+            "isWorkingHere": true,
+            "endDate": null,
+            "highlights": [
+                "* Worked on a team of 5 developers to develop a web application for a client"
+            ],
+            "summary": "<ul style=\"list-style-type: circle;\"><li>Full-stack software development with Java/Spring for backend and Angular for frontend. </li><li>Utilizing Katalon for test case automation.</li><li>Collaboration across various business units to drive solution development. </li><li>Operating within a SAFe Agile framework.</li></ul>",
+            "years": "8 Months"
+        },
+        {
+            "id": "2",
+            "name": "Tata Consultancy Services",
+            "position": "Senior Software Developer",
+            "url": "",
+            "startDate": "2010-09-28T22:00:00.000Z",
+            "isWorkingHere": false,
+            "endDate": "2023-10-23T22:00:00.000Z",
+            "highlights": [
+                "* Worked on a team of 5 developers to develop a web application for a client"
+            ],
+            "summary": "<p><strong>Nordea Bank - Lead Softtware developer (2022 May to present) -Stockholm-Sweden</strong>\n</p><p>\n<br></p><p>Was responsible for developing/designing/maintaining multiple micro serviceapplications\n</p><p><strong>Sky - Senior Software developer (2021-2021-October) - Kolkata-India</strong></p><p><br></p><p>Worked as an individual contributor\nWorked on feature refinement, feature development and support</p><p><strong>British Telecom -Technical Lead (2018-2022) - Ipswich-UK</strong></p><p><strong><br></strong></p><ul style=\"list-style-type: circle;\"><li>Led a 22-member team divided into four squads, each focusing on different applications.</li><li>&nbsp;Served as the technical lead for all units, collaborating with product owners, engineering leads, and stakeholders to refine epics and transformation tasks. </li><li>Engaged in high-level design discussions and contributed to the implementation approach, creating design documents alongside engineering leads and stakeholders. </li><li>Deputed to an onshore location in the UK, working closely with product owners, engineering leads, and solution architects.</li><li>Played a key role in various transformation activities and technology migration efforts</li></ul><p><br></p><p><strong>British Telecom - Senior Software Developer(2016-2018) - Kolkata-India</strong></p><ul style=\"list-style-type: circle;\"><li>- Developed features and conducted unit testing with Java and Spring Boot. - Created and maintained Jenkins pipelines for builds. </li><li> Performed asynchronous processing using Spring JMS. </li><li>&nbsp;Applied TDD methodologies for application development.</li><li>&nbsp;Developed, shipped, and managed applications using Docker. </li><li> Monitored and resolved production issues within the agreed SLA with customers.<br></li></ul><p><strong>Software Developer(2015-2016) - Cardif-UK\nBritish Telecom&nbsp;</strong></p><p><strong> Software Developer(2010-2015) - Kolkata-India&nbsp;British Telecom</strong><br></p>",
+            "years": "13 Years 2 Months"
+        }
+    ],
+    "education": [
+        {
+            "id": "1",
+            "institution": "Westbengal university of technology",
+            "url": "https://www.mit.edu/",
+            "studyType": "Master in computer application",
+            "area": "",
+            "startDate": "2001-04-01T22:00:00.000Z",
+            "isStudyingHere": false,
+            "endDate": "2007-04-30T22:00:00.000Z",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Calcutta University ",
+            "studyType": "B.Sc",
+            "area": "Physics",
+            "startDate": "2001-04-02T13:31:16.000Z",
+            "isStudyingHere": false,
+            "endDate": "2004-03-01T14:31:43.000Z",
+            "id": "0.5288579112914378",
+            "url": "",
+            "courses": [],
+            "score": ""
+        }
+    ],
+    "activities": {
+        "involvements": "<ol><li>Worked with\nNordea Bank for global fraud monitoring system.</li><li>Worked in order in an order-tracking /rescheduling/order cancellation&nbsp;which was used by customers andAgents for a leading telecom client\nBritish Telecom).\n</li></ol>",
+        "achievements": "<ul><li>Oracle certified java professional</li><li> Professional Scrum Master certifi cation</li></ul>"
+    },
+    "volunteer": [
+        {
+            "id": "1",
+            "organization": "Company XYZ",
+            "position": "Organizer",
+            "url": "https://xyx.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Organized several hackthons & monthly meetup to improve the community",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ],
+            "isVolunteeringNow": false
+        }
+    ],
+    "awards": [
+        {
+            "title": "Certificate of exceptional bug finder",
+            "date": "2014-11-01",
+            "awarder": "XYZ client",
+            "summary": "* Recognition zero defect delivery",
+            "id": "1"
+        },
+        {
+            "title": "Certificate of best frontend developer",
+            "date": "2016-11-01",
+            "awarder": "XYZ client",
+            "summary": "Awarded for exceptional improvements made to improve user experience",
+            "id": "1"
+        }
+    ]
+}
